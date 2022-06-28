@@ -34,5 +34,15 @@
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <br>
-  
+	
+
+  <br>
+</div>
+
+<div align=center>
+	
+  <a href="https://www.instagram.com/_spearhyeok/">
+    <img src="http://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/_spearhyeok/"/>
+  </a>
+	
 </div>
