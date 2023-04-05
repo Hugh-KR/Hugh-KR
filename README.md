@@ -6,7 +6,10 @@
 	
 </div>
 
-<div align=center> 
+[![Solved.ac
+sds2317884](http://mazassumnida.wtf/api/v2/generate_badge?boj={handle})](https://solved.ac/{handle})
+
+<!-- <div align=center> 
 
   <img src="https://img.shields.io/badge/android-3DDC84?style=flat-square&logo=android&logoColor=white"> 
   <img src="https://img.shields.io/badge/android studio-3DDC84?style=flat-square&logo=android studio&logoColor=white"> 
@@ -46,3 +49,4 @@
   </a>
 	
 </div>
+ -->
