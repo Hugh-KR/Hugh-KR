@@ -1,17 +1,18 @@
-<div align=center>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=안녕하세요&fontSize=90" />
-</div>
+# SHIN CHANG HYEOK 😉
 
-<div align=center>
-	
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsds2317884%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-	
-<a href="https://www.instagram.com/_spearhyeok/"><img src="http://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/_spearhyeok/"/></a>
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsds2317884%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=sds2317884)](https://solved.ac/sds2317884/)
-</div>
 
 
+## 💬 About me
+* 🌱 I'm currently learning back-end skills
+* ❤️ I love to code and read
+* 🧑‍💻 I know the joy of shared growth.
+
+
+## 📬 Contacts
+<a href="https://www.instagram.com/_spearhyeok/"><img src="http://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/_spearhyeok/"/></a>
 <!-- <div align=center> 
 
   <img src="https://img.shields.io/badge/android-3DDC84?style=flat-square&logo=android&logoColor=white"> 
