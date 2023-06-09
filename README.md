@@ -14,5 +14,5 @@
 - [If you want to visit, here it is!](https://hughs-diary.tistory.com/)
 
 ## Contacts.
-- [lee2317884@gmail.com](lee2317884@gmail.com)
+- <a href="mailto:lee2317884@gmail.com">lee2317884@gmail.com</a>
 
