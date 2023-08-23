@@ -7,8 +7,8 @@
 
 ## 💬 About me.
 * 🌱 I'm currently learning back-end skills
-* ❤️ I love to code and read
-* 🧑‍💻 I know the joy of shared growth.
+* 🧑‍💻 I know the importance of TDD.
+* 🏃 I know the joy of shared growth.
 
 <!-- ## Blog.
 - [If you want to visit, here it is!](https://hughs-diary.tistory.com/) -->
