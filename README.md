@@ -7,7 +7,7 @@
 
 ## 💬 About me.
 * 🌱 I'm currently learning back-end skills
-* 🧑‍💻 I know the importance of TDD.
+* 🧑‍💻 I know the importance of Test Code.
 * 🏃 I know the joy of shared growth.
 
 <!-- ## Blog.
