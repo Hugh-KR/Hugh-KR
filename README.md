@@ -13,7 +13,7 @@
 <!-- ## Blog.
 - [If you want to visit, here it is!](https://hughs-diary.tistory.com/) -->
 
-## Contacts.
+## 📬 Contacts.
 - <a href="mailto:lee2317884@gmail.com">lee2317884@gmail.com</a>
 
 
