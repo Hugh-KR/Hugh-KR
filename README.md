@@ -16,3 +16,6 @@
 ## Contacts.
 - <a href="mailto:lee2317884@gmail.com">lee2317884@gmail.com</a>
 
+
+## Profile Trophy
+[![trophy](https://github-profile-trophy.vercel.app/?username=Hugh-KR&theme=onedark&column=7&row=1&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
